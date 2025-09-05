@@ -14,6 +14,11 @@
 
 ---
 
+## Screen Shots
+
+<img src="<img width="1879" height="890" alt="Screenshot 2025-09-05 135832" src="https://github.com/user-attachments/assets/a4a0104f-5485-4c98-a63b-e01d5f61c278" />
+" alt="CURE WISE UI" width="600"/>
+
 ## 📁 Project Structure
 
 ```bash
