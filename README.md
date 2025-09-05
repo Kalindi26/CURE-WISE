@@ -55,4 +55,4 @@ Groq Whisper – Transcribes voice to text.
 
 Groq LLaMA Vision – Analyzes medical images with language prompts.
 
-gTTS / ElevenLabs – Converts doctor's response into voice (gTTS is default).
+
